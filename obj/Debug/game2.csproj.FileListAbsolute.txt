@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\game2\game2\obj\Debug\game2.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\game2\game2\obj\Debug\game2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\game2\game2\obj\Debug\game2.Form1.resources
+C:\Users\Admin\source\repos\game2\game2\obj\Debug\game2.Properties.Resources.resources
+C:\Users\Admin\source\repos\game2\game2\obj\Debug\game2.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\game2\game2\obj\Debug\game2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\game2\game2\bin\Debug\game2.exe.config
+C:\Users\Admin\source\repos\game2\game2\bin\Debug\game2.exe
+C:\Users\Admin\source\repos\game2\game2\bin\Debug\game2.pdb
+C:\Users\Admin\source\repos\game2\game2\obj\Debug\game2.exe
+C:\Users\Admin\source\repos\game2\game2\obj\Debug\game2.pdb
